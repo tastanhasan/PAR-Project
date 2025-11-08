@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a337250aaced2864095d69d5c7045920, type: 3}
+  m_Name: JSON Point of Interest Set
+  m_EditorClassIdentifier: 
+  pointOfInterests: []
+  sharedIcon: {fileID: 21300000, guid: da359589931ba2e41ab9c4197e796a8e, type: 3}
+  sharedObjectPrefab: {fileID: 1387282488151261120, guid: fc9da8ea5f935334fb1508ffd789ae4c,
+    type: 3}
+  sharedModelPrefab: {fileID: 0}
+  sharedCanvasPrefab: {fileID: 1531612421245766800, guid: db40a622d784fa942b92e9891d8b9d89,
+    type: 3}
+  sharedTrackingRadius: 100
+  sharedTrackingExitMargin: 20
+  sharedClosedTrackingRadius: 25
+  sharedClosedTrackingExitMargin: 10
+  sharedFacingDirectionHeading: 90
+  sharedRelativeHeight: 0
+  sharedTrackingState: 1

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462342627617",
+    "firebase_url": "https://ar-new-f8cfa-default-rtdb.firebaseio.com",
+    "project_id": "ar-new-f8cfa",
+    "storage_bucket": "ar-new-f8cfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462342627617:android:69626d70d452f1e4d8de60",
+        "android_client_info": {
+          "package_name": "com.ytu.ARTRY"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-n6hz4CmbjVUytYRYoVGLxurPckRrrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
